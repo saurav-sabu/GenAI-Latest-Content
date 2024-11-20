@@ -1,3 +1,5 @@
 pymupdf4llm
 ipykernel
 llama-index
+google-generativeai
+python-dotenv
